@@ -7,14 +7,13 @@ My passion lies in designing robust server-side architectures, working with data
 
 ### 💡 About Me
 - 🛠 Experience in both **frontend** (React.js, Tailwind CSS) and **backend** (Spring Boot, REST APIs, JWT Authentication)
-- 🗄 Skilled in database design & optimization with **PostgreSQL** and **MySQL**
-- 🌍 Integrated APIs like **2GIS** and **payment systems** into production projects
+- 🗄 Skilled in database design & optimization with **PostgreSQL**
 - 📚 Constantly learning advanced backend topics: scalability, security, and microservices
 - 💼 Interested in building reliable, high-performance server-side systems
 
 ### 🛠 Tech Stack
 **Languages:** Java, JavaScript, Python, C, C++, Go  
-**Backend:** Spring Boot, Node.js, REST API Development, JWT Authentication, WebSockets  
+**Backend:** Spring Boot, Node.js, REST API Development, JWT Authentication 
 **Databases:** PostgreSQL  
 **Frontend:** React.js, Tailwind CSS, Framer Motion, i18next  
 **Tools:** Git/GitHub, npm/yarn, Vercel, Render, DBeaver, Postman, docker, IntelliJ IDEA, VS code
