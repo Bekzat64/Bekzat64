@@ -29,7 +29,7 @@ Built REST APIs and database schemas with Java, Spring Boot, and PostgreSQL for 
 
 ## 📌 Projects
 
-**[Kor Cinema](https://play.google.com/store/apps/details?id=com.korcinema)** — Live streaming app for Kazakh TV series (App Store & Google Play)  
+**[Kor Cinema](https://korcinema.com/)** — Live streaming app for Kazakh TV series (App Store & Google Play)  
 Redesigned Flutter mobile UI and web interface. Integrated Bunny.net adaptive video streaming. Collaborated remotely with backend engineers on API integration. *(Dec 2025 – Present)*
 
 **FastBron.kz** — Booking optimization platform for service businesses  
@@ -37,6 +37,8 @@ Full-stack contribution: Spring Boot backend, PostgreSQL, JWT auth, React.js fro
 
 **Tournament Platform** *(Personal project)*  
 Esports tournament management system — React + Spring Boot + PostgreSQL + JWT Auth.
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.korcinema)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/kor-cinema-stories/id6758523817)
 
 ---
 
