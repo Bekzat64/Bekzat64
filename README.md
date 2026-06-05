@@ -1,45 +1,52 @@
-## Hi there, I'm Bekzat 👋
+# Hi, I'm Bekzat 👋
 
-🚀 **Backend Developer | Frontend Developer | Full-Stack Experience**
+**Backend-focused Full-Stack Developer** · Computer Science @ Nazarbayev University (3rd Year)
 
-I am a dedicated developer with strong expertise in **backend development** and solid experience in building complete full-stack applications.  
-My passion lies in designing robust server-side architectures, working with databases, and creating reliable APIs — while also ensuring the frontend delivers a seamless user experience.
-
-### 💡 About Me
-- 🛠 Experience in both **frontend** (React.js, Tailwind CSS) and **backend** (Spring Boot, REST APIs, JWT Authentication)
-- 🗄 Skilled in database design & optimization with **PostgreSQL**
-- 📚 Constantly learning advanced backend topics: scalability, security, and microservices
-- 💼 Interested in building reliable, high-performance server-side systems
-
-### 🛠 Tech Stack
-**Languages:** Java, JavaScript, Python, C, C++, Go  
-**Backend:** Spring Boot, Node.js, REST API Development, JWT Authentication 
-**Databases:** PostgreSQL  
-**Frontend:** React.js, Tailwind CSS, Framer Motion, i18next  
-**Tools:** Git/GitHub, npm/yarn, Vercel, Render, DBeaver, Postman, docker, IntelliJ IDEA, VS code
-
-### 📌 Featured Projects
-- 🎮 **Tournament Platform** – Esports tournament management system (React + Spring Boot, PostgreSQL, JWT Auth)
-- 💻 **FastBron.kz** – Online booking platform for computer clubs with API integrations & payment processing
-- 🌐 **Multilingual Web Apps** – Websites with **Kazakh, Russian, English** support via i18next
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bekzqt04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bekzatadilbekov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bekzatadilbekov382@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bekzat64&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bekzat64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekzat64&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bekzat64&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+I enjoy building reliable server-side systems and APIs, and have hands-on experience taking features from database design through to frontend integration. Currently interning at Soft Power LLP while contributing to a live streaming app on the App Store and Google Play.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bekzat64&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+**Languages:** Java · JavaScript · Python · C/C++ · Dart  
+**Backend:** Spring Boot · REST APIs · JWT Authentication  
+**Frontend & Mobile:** React.js · Tailwind CSS · Flutter  
+**Databases:** PostgreSQL  
+**DevOps & Tools:** Docker · Git · GitHub · Postman · DBeaver · Vercel · Render  
+**Streaming:** Bunny.net  
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern** — Soft Power LLP *(Jun 2026 – Present)*  
+Backend-focused full-stack development in the Development and Automation Department. Building REST APIs, designing database schemas, and integrating backend services with frontend layers.
+
+**Backend Intern → Full-Stack Developer** — SIMPLEXX SOFT *(Jun – Sep 2025)*  
+Built REST APIs and database schemas with Java, Spring Boot, and PostgreSQL for FastBron.kz — a booking platform for service businesses. Expanded into frontend (React.js, Tailwind CSS) and handled JWT auth end-to-end. Used Docker for containerization.
+
+---
+
+## 📌 Projects
+
+**[Kor Cinema](https://play.google.com/store/apps/details?id=com.korcinema)** — Live streaming app for Kazakh TV series (App Store & Google Play)  
+Redesigned Flutter mobile UI and web interface. Integrated Bunny.net adaptive video streaming. Collaborated remotely with backend engineers on API integration. *(Dec 2025 – Present)*
+
+**FastBron.kz** — Booking optimization platform for service businesses  
+Full-stack contribution: Spring Boot backend, PostgreSQL, JWT auth, React.js frontend with Tailwind CSS.
+
+**Tournament Platform** *(Personal project)*  
+Esports tournament management system — React + Spring Boot + PostgreSQL + JWT Auth.
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bekzat-adilbekov-912313361)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bekzatadilbekov382@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bekzqt04)
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=Bekzat64&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekzat64&theme=dark&hide_border=true&count_private=true&layout=compact)
